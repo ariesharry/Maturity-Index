@@ -1,14 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="3pdvLwn51PIEMLrjXKrF">
-    <mxGraphModel dx="1185" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hZDAZnnxtma5DgunRPRr-1" value="&#xa;Literature Review&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="80" y="370" width="200" height="270" as="geometry" />
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hZDAZnnxtma5DgunRPRr-1" target="jXOtGEoX0SLwzM6ANyzr-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZDAZnnxtma5DgunRPRr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="hZDAZnnxtma5DgunRPRr-1" value="Literature Analysis and Conceptualization" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="80" y="370" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-1" target="jXOtGEoX0SLwzM6ANyzr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-1" value="Review of Industry 4.0 Maturity Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="410" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-4" target="jXOtGEoX0SLwzM6ANyzr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-4" value="Identification of Core Dimensions and Criteria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="470" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-5" value="Model Design and Conceptualization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="530" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-6" target="jXOtGEoX0SLwzM6ANyzr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-6" value="Determination of Maturity Levels and Dimensions" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-7" target="jXOtGEoX0SLwzM6ANyzr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-7" value="Definition of Maturity Levels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.25" y="410" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-8" target="jXOtGEoX0SLwzM6ANyzr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-8" value="Dimension Selection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.25" y="470" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-9" value="Criteria Specification for Each Dimension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.25" y="530" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-10" target="jXOtGEoX0SLwzM6ANyzr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-10" value="Criteria Weighting with Analytical Hierarchy Process (AHP)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="630" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-11" target="jXOtGEoX0SLwzM6ANyzr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-11" value="Development of AHP Hierarchical Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.25" y="670" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-12" target="jXOtGEoX0SLwzM6ANyzr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-12" value="Pairwise Comparison and Expert Judgments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.25" y="730" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-13" value="Weight Calculation and Consistency Check" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436.25" y="790" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-16" target="jXOtGEoX0SLwzM6ANyzr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-16" value="Maturiry Evaluation Using Fuzzy Inference System (FIS)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-17" target="jXOtGEoX0SLwzM6ANyzr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-17" value="Input Fuzzification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="670" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-18" target="jXOtGEoX0SLwzM6ANyzr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-18" value="Rule Definition for Fuzzy Inference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="730" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-19" value="Output Defuzzification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.25" y="790" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-20" value="Model Validation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="240" y="900" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-21" target="jXOtGEoX0SLwzM6ANyzr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-21" value="Case Selection and Data Collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="940" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXOtGEoX0SLwzM6ANyzr-22" target="jXOtGEoX0SLwzM6ANyzr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-22" value="Application of AHP-FIS Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="1000" width="237.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jXOtGEoX0SLwzM6ANyzr-23" value="Result Analysis and Model Adjustment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="1060" width="237.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
